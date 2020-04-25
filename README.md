@@ -1,5 +1,3 @@
-######## LISTA IPTV GRÁTIS ###########
-
 #EXTM3U
 #EXTINF:-1,+ Velozes + Furiosos
 http://maxptv.net:8080/movie/jose/jose/2313.mp4
