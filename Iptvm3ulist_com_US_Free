@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,USA:TLC
+http://universe-ip.com:8000/azazaz/azazaz/6192
 #EXTINF:-1,USA:ABC
 http://universe-ip.com:8000/azazaz/azazaz/2559
 #EXTINF:-1,USA:ABC_News
@@ -165,8 +167,6 @@ http://universe-ip.com:8000/azazaz/azazaz/3215
 http://universe-ip.com:8000/azazaz/azazaz/33501
 #EXTINF:-1,USA:Tennis_HD
 http://universe-ip.com:8000/azazaz/azazaz/30302
-#EXTINF:-1,USA:TLC
-http://universe-ip.com:8000/azazaz/azazaz/6192
 #EXTINF:-1,USA:TNT
 http://universe-ip.com:8000/azazaz/azazaz/2463
 #EXTINF:-1,USA:TRU_TV
